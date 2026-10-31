@@ -6,11 +6,8 @@
 
 ### Split the costs, keep the memories.
 
-[![Latest Release](https://img.shields.io/github/v/release/shoruvx/TourSplit-App?style=for-the-badge&color=0084FF)](https://github.com/shoruvx/TourSplit-App/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/shoruvx/TourSplit-App/total?style=for-the-badge&color=0084FF&label=Downloads)](https://github.com/shoruvx/TourSplit-App/releases)
-[![Registered Accounts](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffirestore.googleapis.com%2Fv1%2Fprojects%2Ftourexpensetracker-3da34%2Fdatabases%2F(default)%2Fdocuments%2Fapp_config%2Fstats&query=%24.fields.totalUsers.integerValue&label=Registered%20Accounts&color=0084FF&style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/shoruvx/TourSplit-App)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shoruvx/TourSplit-App/releases/latest)
-[![License](https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge)](LICENSE)
+[![Total Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshoruvx%2FTourSplit-App%2Fmain%2Fstats.json&query=%24.totalDownloads&label=Downloads&color=0084FF&style=for-the-badge&logo=android&logoColor=white)](https://github.com/shoruvx/TourSplit-App/releases)
+[![Total Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshoruvx%2FTourSplit-App%2Fmain%2Fstats.json&query=%24.totalUsers&label=Users&color=0084FF&style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/shoruvx/TourSplit-App)
 
 <br/>
 
