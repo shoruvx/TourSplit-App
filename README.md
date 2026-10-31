@@ -8,6 +8,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/shoruvx/TourSplit-App?style=for-the-badge&color=0084FF)](https://github.com/shoruvx/TourSplit-App/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/shoruvx/TourSplit-App/total?style=for-the-badge&color=0084FF&label=Downloads)](https://github.com/shoruvx/TourSplit-App/releases)
+[![Registered Accounts](https://img.shields.io/badge/Registered%20Accounts-1,000%2B-0084FF?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/shoruvx/TourSplit-App)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shoruvx/TourSplit-App/releases/latest)
 [![License](https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge)](LICENSE)
 
